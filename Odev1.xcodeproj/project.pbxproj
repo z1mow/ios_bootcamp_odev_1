@@ -148,6 +148,7 @@
 				DEVELOPMENT_TEAM = W9K9K372K9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Odev1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Ödev_1";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,6 +177,7 @@
 				DEVELOPMENT_TEAM = W9K9K372K9;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Odev1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Ödev_1";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
